@@ -1,0 +1,5 @@
+Console.WriteLine("knife");
+Console.WriteLine("Table");
+Console.WriteLine("basket");
+Console.WriteLine("refrigenerator");
+Console.WriteLine("owen");
