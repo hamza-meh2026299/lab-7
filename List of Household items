@@ -8,3 +8,4 @@ Console.WriteLine("owen");
 
 
 Console.WriteLine("Light");
+Console.WriteLine("fan");
