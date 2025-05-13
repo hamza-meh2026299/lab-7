@@ -3,3 +3,7 @@ Console.WriteLine("Table");
 Console.WriteLine("basket");
 Console.WriteLine("refrigenerator");
 Console.WriteLine("owen");
+
+
+
+Console.WriteLine("fan");
